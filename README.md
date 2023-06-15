@@ -4,7 +4,7 @@ An archive of Yuuki Konno ([@yuukikno](https://twitter.com/yuukikno))'s tweets
 through June 14, 2023 (JST), retrieved from
 [Twilog](https://twilog.togetter.com/yuukikno).  See also:
 
-* [Twitter: @konyuuk](https://twitter.com/yuukikno)
+* [Twitter: @yuukikno](https://twitter.com/yuukikno)
     * [Mastodon.social: @yuukikno](https://mastodon.social/@yuukikno)
         * [Notestock](https://notestock.osa-p.net/@yuukikno@mastodon.social/view)
     * [Mastodon.social: @konyuuk](https://mastodon.social/@konyuuk) - up to June 14, 2023
