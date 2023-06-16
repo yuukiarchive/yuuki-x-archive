@@ -7,7 +7,7 @@ through June 14, 2023 (JST), retrieved from
 * [Twitter: @yuukiknno](https://twitter.com/yuukiknno)
     * [Mastodon.social: @yuukiknno](https://mastodon.social/@yuukiknno)
         * [Notestock](https://notestock.osa-p.net/@yuukiknno@mastodon.social/view)
-    * [Mastodon.social: @yuukikno](https://mastodon.social/@yuukikno)
+    * [Mastodon.social: @yuukikno](https://mastodon.social/@yuukikno) - up to June 15, 2023
         * [Notestock](https://notestock.osa-p.net/@yuukikno@mastodon.social/view)
     * [Mastodon.social: @konyuuk](https://mastodon.social/@konyuuk) - up to June 14, 2023
         * [Notestock](https://notestock.osa-p.net/@konyuuk@mastodon.social/view)
