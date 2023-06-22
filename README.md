@@ -1,6 +1,6 @@
 # yuukiknno-230614
 
-An archive of Yuuki Konno ([@yuukiknno](https://twitter.com/yuukiknno))'s tweets
+An archive of yuuki ([@yuukiknno](https://twitter.com/yuukiknno))'s tweets
 through June 14, 2023 (JST), retrieved from
 [Twilog](https://twilog.togetter.com/yuukiknno).  See also:
 
