@@ -4,7 +4,7 @@ An archive of Yuuki ([@yuuki26](https://x.com/yuuki26))'s tweets
 through July 18, 2023 (JST), retrieved from
 [Twilog](https://twilog.togetter.com/yuuki26).  See also:
 
-* [X (formerly Twitter): @yuuki26](https://x.com/yuuki26)
+* [X: @yuuki26](https://x.com/yuuki26)
     * [Mastodon.social: @yuukikonno](https://mastodon.social/@yuukikonno)
         * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
     * [Mastodon.social: @yuukiknno](https://mastodon.social/@yuukiknno) - up to July 6, 2023
