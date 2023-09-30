@@ -1,8 +1,8 @@
-# yuuki26-230718
+# yuuki26-230930
 
-An archive of yuuki ([@yuuki26](https://x.com/yuuki26))'s posts through July 18,
-2023 (JST), retrieved from [Twilog](https://twilog.togetter.com/yuuki26).  See
-also:
+An archive of yuuki ([@yuuki26](https://x.com/yuuki26))'s posts through
+September 30, 2023 (JST), retrieved from
+[Twilog](https://twilog.togetter.com/yuuki26).  See also:
 
 * [X: @yuuki26](https://x.com/yuuki26)
     * Mastodon.social
