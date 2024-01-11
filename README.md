@@ -1,23 +1,34 @@
-# yuuki26-230930
+# Yuuki X Archive
 
-An archive of yuuki ([@yuuki26](https://x.com/yuuki26))'s posts through
-September 30, 2023 (JST), retrieved from
-[Twilog](https://twilog.togetter.com/yuuki26).  See also:
+This is an archive of yuuki's posts on X.
 
-* [X: @yuuki26](https://x.com/yuuki26)
-    * Mastodon.social
-       * [@yuukikonno](https://mastodon.social/@yuukikonno)
-           * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
-       * [@yuukiknno](https://mastodon.social/@yuukiknno) - up to July 4, 2023
-       * [@yuukikno](https://mastodon.social/@yuukikno) - up to June 15, 2023
-       * [@konyuuk](https://mastodon.social/@konyuuk) - up to June 12, 2023
-       * [@yuukikonnobot](https://mastodon.social/@yuukikonnobot) - up to February 26, 2023
-    * [Twilog](https://twilog.togetter.com/yuuki26)
-    * [Togetter](https://togetter.com/li/2144709)
-    * [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status*)
-    * [Archive.today](https://archive.is/https://x.com/yuuki26/*)
-* Twitter: @yuuki___0517 - up to 2019, suspended
+* [@yuuki26](https://twitter.com/yuuki26) (ID: [1463770680491593729](https://twitter.com/i/user/1463770680491593729))
+
+* https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU
+
+## Mirrors
+
+<details>
+
+* [Nitter.net](https://nitter.net/i/user/1463770680491593729)
+* [Twiiit.com](https://twiiit.com/i/user/1463770680491593729)
+* [Twilog](https://twilog.togetter.com/yuuki26)
+* [Togetter](https://togetter.com/li/2144709)
+* [Mastodon.social: @yuukikonno](https://mastodon.social/@yuukikonno)
+    * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
+
+## Older archives
+
+* [yuuki26-230930/yuuki26-230930](https://github.com/yuuki26-230930/yuuki26-230930)
+
+## Older accounts
+
+### 2019
+
+* Twitter: @yuuki___0517
     * [Pawoo.net: @yuuki___0517](https://pawoo.net/@yuuki___0517)
-    * [FC2 Blog: "Shogi blog"](https://yuukishogi.blog.fc2.com/)
+    * [FC2 Blog: "Shogi Blog"](https://yuukishogi.blog.fc2.com/)
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
-    * [Archive.today](https://archive.is/https://twitter.com/yuuki___0517/*)
+    * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/*)
+
+</details>
