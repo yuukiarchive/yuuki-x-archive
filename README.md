@@ -25,7 +25,7 @@ If X goes down:
 
 <!-- -->
 
-* [Media posted in 2023 and earlier](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
+* [Media (-2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
 ## Older accounts
 
