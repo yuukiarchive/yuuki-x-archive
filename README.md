@@ -14,7 +14,7 @@ If X goes down:
 
 <!-- -->
 
-* [Nitter](https://twiiit.com/i/user/1463770680491593729) (via Twiiit) - [jpn](https://twiiit.com/i/user/1672629051419410435)
+* [Nitter](https://twiiit.com/i/user/1463770680491593729) - [jpn](https://twiiit.com/i/user/1672629051419410435)
 * [Twilog](https://twilog.togetter.com/yuuki26) - [jpn](https://twilog.togetter.com/yuuki170)
 * [Togetter](https://togetter.com/li/2144709)
 
