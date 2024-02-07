@@ -20,8 +20,8 @@ If X goes down:
 
 ## Archives
 
-* [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
 * [Archive.today](https://archive.today/https://twitter.com/yuuki26/*) - [jpn](https://archive.today/https://twitter.com/yuuki170/*)
+* [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
 * [Media posted in 2023 and earlier](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
 ## Older accounts
@@ -31,10 +31,10 @@ If X goes down:
 
 ### 2019
 
-* Twitter: @yuuki___0517
-    * [Pawoo.net: @yuuki___0517](https://pawoo.net/@yuuki___0517)
-    * [FC2 Blog: "Shogi Blog"](https://yuukishogi.blog.fc2.com/)
-    * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
+* @yuuki___0517 (suspended)
+    * [Pawoo: @yuuki___0517](https://pawoo.net/@yuuki___0517)
+    * [Shogi Blog](https://yuukishogi.blog.fc2.com/)
     * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/*)
+    * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
 
 </details>
