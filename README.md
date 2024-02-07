@@ -16,10 +16,10 @@ If X goes down:
 
 * [Nitter](https://twiiit.com/i/user/1463770680491593729) - [jpn](https://twiiit.com/i/user/1672629051419410435)
 * [Twilog](https://twilog.togetter.com/yuuki26) - [jpn](https://twilog.togetter.com/yuuki170)
-* [Togetter](https://togetter.com/li/2144709)
 
 ## Archives
 
+* [Togetter](https://togetter.com/li/2144709)
 * [Archive.today](https://archive.today/https://twitter.com/yuuki26/*) - [jpn](https://archive.today/https://twitter.com/yuuki170/*)
 * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
 
