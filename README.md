@@ -18,9 +18,11 @@ If X goes down:
 * [Twilog](https://twilog.togetter.com/yuuki26) - [jpn](https://twilog.togetter.com/yuuki170)
 * [Togetter](https://togetter.com/li/2144709)
 
-<!-- -->
+## Archives
 
-* https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU
+* [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
+* [Archive.today](https://archive.today/https://twitter.com/yuuki26/*) - [jpn](https://archive.today/https://twitter.com/yuuki170/*)
+* [Media posted in 2023 and earlier](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
 ## Older accounts
 
