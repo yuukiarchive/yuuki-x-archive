@@ -26,6 +26,9 @@ If X goes down:
 
 ## Older accounts
 
+<details>
+<summary>[show]</summary>
+
 ### 2019
 
 * Twitter: @yuuki___0517
@@ -33,3 +36,5 @@ If X goes down:
     * [FC2 Blog: "Shogi Blog"](https://yuukishogi.blog.fc2.com/)
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
     * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/*)
+
+</details>
