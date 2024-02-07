@@ -35,3 +35,7 @@ If X goes down:
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
 
 </details>
+
+## License
+
+All my creations in my X/Twitter/Mastodon posts (including text, images, videos, and audio) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) or later.
