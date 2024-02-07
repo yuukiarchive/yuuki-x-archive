@@ -1,3 +1,236 @@
+"1755117486024913393","240207 153311","i've searched x for ""marugame fat"" before, while at Marugame Udon.
+thought the menu rec'd by fat people would be good.
+
+then Mentai Kamatama (egg n spicy fish roe) + rice (?) came up, tried it n it was ok."
+"1755093080284315734","240207 135613","i want a carrd like service with no free text fields.
+only key=value pairs.
+
+so we can extract x users who are using android etc.
+it could also be an international dating app."
+"1755074870650474661","240207 124351","i think x should display the education of the poster. (joke)
+knowing ppls backgrounds may lead to bias.
+
+thats why i pinned my bio data."
+"1755035498387841476","240207 100724","the Ezpr data structure described in this blog may be the best approach.
+https://blog.plover.com/math/24-puzzle-2.html
+
+other prior studies are organized in my repo.
+https://github.com/yuuki15/24#bibliography"
+"1754570272584478837","240206 031845","it is needed to eliminate duplicate solutions to the 24 puzzle.
+found that certain 19 rules can normalize an expr.
+
+however, it didn't work for exprs whose value is 0 (or the 0 puzzle).
+(due to an infinite loop.)"
+"1754567992543965231","240206 030942","converts an expr by certain rules like
+A * 1 * 1 ⟹ A + 1 - 1.
+i called the result the yuuki normal form (YNF).
+
+defines exprs the same iff they have the same YNF.
+i implemented this using Perl extended regexes.
+https://github.com/yuuki15/24/blob/1c5d42beb24144c3fdcccb39f032eb6842395b05/normalize.pl#L87 https://pic.twitter.com/JVuePzIt2q"
+"1754564896862400541","240206 025724","reorganized my research from 2 yrs ago.
+https://github.com/yuuki15/24
+
+① 5 * 2 + 1 - 1
+② 5 * 2 * 1 * 1
+③ 5 / (1 - (1 / 2))
+
+all of the above equals 10.
+but you'd see ① and ② similar, ③ quite different.
+i was working on formulating this difference."
+"1753770424624906683","240203 222027","https://pic.twitter.com/MFQ2FXPn3A"
+"1753770411723288918","240203 222024","https://pic.twitter.com/cR4x7C1cHL"
+"1753767114815484001","240203 220718","Jan 16: bought a $1,200 fridge.
+mom funded $600.
+
+tdy i bought a $600 online grocery. https://pic.twitter.com/Csre0kl5eB"
+"1753342829701542284","240202 180120","i founded a $2000 investment fund on Jan 1 but haven't done anything yet.
+(haven't even bought a dollar.)
+
+1 USD = 140.94 JPY (?) at New Year's.
+i thought it could get cheaper due to the earthquake, paradoxically, n waited n then it got expensive. https://pic.twitter.com/jHZJwjQCbx"
+"1753063656026214801","240201 233200","-6℃ (21℉)"
+"1752943964267880567","240201 153623","maxed out 3 dragons to counter mega latios.
+
+concl: manectric is better than arcanine. its hard to play against water (well duh)
+https://github.com/yuukiarchives/pokemon/compare/cc58107..c5b51fb https://twitter.com/yuuki26/status/1751977299988394134 https://pic.twitter.com/EKivizla45"
+"1752268551526679028","240130 185232","lf friends
+#studytwt #studytech #techtwt
+
+https://yuukikonno.com https://pic.twitter.com/jxDvzeooz8"
+"1752253722678227414","240130 175337","don' wanna tell anyone bt u shouldn't purify any pokemon.
+it means to lower the attack.
+hope everyone purifies their kyogre."
+"1752247237344952592","240130 172751","im just calling my collection of tweets Yuuki Kindergarten for now.
+https://min.togetter.com/id/yuuki26"
+"1752243087777140890","240130 171121","i wish we had a wikiversity renamed wikindergarten but now everyone is on twitter"
+"1752239536514457966","240130 165715","smtg like a virtual university should be a virtual kindergarten instead imo.
+in a university its uncomfortable to redo 1st grade math etc."
+"1752217076800847883","240130 152800","dont wanna tell anyone, bt there may be a place called the General Educational Development where gifted ppl gather, besides Mensa.
+(i didnt take it bc im antischooler n anticertifications, tho)"
+"1752057492773744714","240130 045352","lmao so strong. my 1st ever. boutta order 99pcs but stopped now.
+already made it to level 40 Origin Pulse*. https://pic.twitter.com/uRFakb6Jau"
+"1751977299988394134","240129 233513","powered up a Shadow Arcanine. to fight against team rocket's magikarp.
+Thunder Fang/Flamethrower + Wild Charge
+https://github.com/yuukiarchives/pokemon/compare/cc58107..4c98492 https://twitter.com/yuuki26/status/1721638751410278659 https://pic.twitter.com/8C5FzpINBs"
+"1751929717316374842","240129 202608","i define a good pokemon go player as one who can stay comfortable outside.
+
+if u go home n say ""so tired"" ur weak.
+being outside must be the same as being in front of the heater.
+(with electric clothing, etc.)
+it will remain even if pogo is discontinued."
+"1751908942643642494","240129 190335","i intentionally didn't complete the Dazzling Dream Hatch Challenge n gave up the world record i've held for 3 yrs.
+will focus on the real pokemon go. https://twitter.com/yuuki26/status/1699063837096644865 https://pic.twitter.com/LW8bf5e4sU"
+"1751869787825729820","240129 162800","however winxp is considered abandonware n i purchased it legit so it would fall under fair use.
+
+seems this works bc wine has a thing called cards.dll. (probably a clone.)
+https://github.com/wine-mirror/wine/tree/master/dlls/cards https://pic.twitter.com/hPDqsPNzI2"
+"1751864032305287343","240129 160508","wine comes with notepad, but not freecell.
+
+i copied freecell.exe from winxp n it worked.
+% wine freecell.exe
+this may violate the license. https://pic.twitter.com/ZBx7BpqSuk"
+"1751853832479629700","240129 152436","the source code can be found here (mirror)
+https://github.com/wine-mirror/wine/tree/master/programs/notepad"
+"1751852296667873556","240129 151830","just tried Wine on my mac.
+% brew install --cask wine-stable
+% wine notepad
+launched notepad.
+
+seems this isn't an actual windows notepad but just a clone.
+so this is legal. https://pic.twitter.com/lvuW8vdHSP"
+"1751655850257625348","240129 021753","didnt know Shadow Kyogre was released.."
+"1751541599430230501","240128 184354","fyi below r my article n code as of 2021.
+• https://github.com/yuukiarchives/yuukiarchives.github.io/blob/f4c6c14d50a348efd8e41c8a7c9f85ac2099b57c/_drafts/2021-12-09-primes.md
+• https://github.com/yuukiarchives/prime/tree/70adc8726fa1fb25e3f34f9a8f98ea722883ede4
+
+smtg like
+% g++ -std=c++11 http://primes-below-10m.cc http://prime.cc
+can compile them."
+"1751535606583513186","240128 182005","revi(v|s)ing an article on prime number programs i had written in 2021.
+https://github.com/yuukiarchives/yuukiarchives.github.io/blob/main/_drafts/2021-12-09-c-prime-number-programs.md
+
+all the code will now go below.
+https://github.com/yuukiarchives/prime https://twitter.com/yuuki26/status/1615110983244185601"
+"1751143221860929728","240127 162053","moved all my gists to https://github.com/yuukiarchives"
+"1751141229365203410","240127 161258","@no_TL
+moved the repo to
+• https://github.com/yuukiarchives/songs-yuuki-can-sing https://twitter.com/yuuki26/status/1745389636929905083"
+"1751140167140975055","240127 160845","@no_TL
+moved the repo to
+• https://github.com/yuukiarchives/pokemon https://twitter.com/yuuki26/status/1721638751410278659"
+"1751084115057861046","240127 122601","@no_TL
+https://twitter.com/yuuki26/status/1719051239156310396 https://twitter.com/yuuki26/status/1675892013592395777"
+"1750858626175254941","240126 213000","Wolfram Alpha can answer in 1 sec, ofc.
+Julia may be more like a programming language than a pocket calculator.
+https://www.wolframalpha.com/input?i=%2810%5E100%29%21"
+"1750856491865878584","240126 212131","js tried Julia, but it doesn't seem comparable to https://wolframalpha.com.
+% brew install julia
+% julia
+
+first of all, u can't write
+&gt; (10^100)!
+it has to be
+&gt; factorial(big(10)^100)
+
+second, it can't be computed at all. i got an InexactError."
+"1750719766422343873","240126 121813","@no_TL
+moved to
+• https://yuukiarchives.github.io/scratch/flash/ https://twitter.com/yuuki26/status/1749396265795023230"
+"1750719271465087352","240126 121615","@no_TL
+changed to
+• https://yuukiarchives.github.io https://twitter.com/yuuki26/status/1745383770117791963"
+"1750717893984256061","240126 121047","@no_TL
+moved to
+• https://github.com/yuukiarchives https://twitter.com/yuuki26/status/1745380432492019970"
+"1750703828289331503","240126 111453","my site is live at
+• https://yuukikonno.com
+
+(repo) https://github.com/yuukiarchive/yuukiarchive.github.io"
+"1750694774846443650","240126 103855","anyone can use this theme by writing
+
+remote_theme: jekyll-theme-plain/jekyll-theme-plain
+
+in _config.yml.
+(assuming they created a github acc n http://username.github.io repo.)
+this is why i stick to Jekyll."
+"1750625169897328964","240126 060220","brandy for breakfast again. https://pic.twitter.com/7KtAa04fCC"
+"1750311683149729885","240125 091639","sry for the many reposts
+i thought i shouldve capitalized ""he/him"""
+"1750311667928543572","240125 091635","lf friends
+#studytwt
+
+https://yuukikonno.com/ https://pic.twitter.com/O4dwf9EW7w"
+"1750025416369164558","240124 141907","I've put my domain for sale on Sedo for $10,000.
+https://sedo.com/search/?keyword=yuukikonno.com
+
+I don't want to give it to anyone, but since I'm Yuuki Konno, I believe if someone really wants it, I have to give it to them.
+#yuukikonno #konnoyuuki #紺野木綿季 #ユウキ #swordartonline #sao #sao_anime"
+"1749980779650920589","240124 112145","im picky about the generated HTML byte by byte.
+so i need to create my Jekyll theme.
+named it Plain.
+https://github.com/jekyll-theme-plain/jekyll-theme-plain"
+"1749941958330441904","240124 084729","the best SSG is the ""github-pages"" Ruby gem imo.
+the core of GitHub Pages (based on Jekyll).
+likely the most used."
+"1749873432894812580","240124 041512","if i were to write HTML by hand, i'd have to copy this boilerplate over and over.
+that's an option.
+
+alternatively, i can use a static site generator (SSG). https://pic.twitter.com/Z1W4j9gAhh"
+"1749855219893125548","240124 030249","i want to create a simple site like this.
+it has my links, bio, and blog. https://pic.twitter.com/Zx8zKAm2nt"
+"1749396265795023230","240122 203906","moved to
+• https://yuukiarchive.github.io/scratch/flash/
+
+(repo) https://github.com/yuukiarchive/scratch https://twitter.com/yuuki26/status/1730554350840520832"
+"1749363668142207307","240122 182934","Jan 19, 2024
+received 5th vaccine. https://pic.twitter.com/QNqq0txozv"
+"1747494962332377277","240117 144400","@no_TL
+lf friends
+#studytwt https://pic.twitter.com/YQZANAD0s2"
+"1746425871723102484","240114 155549","lf friends
+#studytwt https://pic.twitter.com/Ap126Zq4by"
+"1745395420245966883","240111 194110","@no_TL
+https://twitter.com/yuuki26/status/1745380432492019970 https://twitter.com/yuuki26/status/1716985890114019389"
+"1745394839120990319","240111 193852","@no_TL
+moved to https://www.youtube.com/channel/UC5yzw4nKCkEjiUgISbqUxMg https://twitter.com/yuuki26/status/1715181336208519383"
+"1745393127874256985","240111 193204","@no_TL
+https://twitter.com/yuuki26/status/1727349435384967623 https://twitter.com/yuuki26/status/1672633961204293632"
+"1745391916827451851","240111 192715","@no_TL
+https://twitter.com/yuuki26/status/1735685630145790049 https://twitter.com/yuuki26/status/1664090523865432068"
+"1745389636929905083","240111 191811","@no_TL
+moved the repo to https://gist.github.com/yuuki15/6d19cfecf2e96d6795e86d42d0a1f028 https://twitter.com/yuuki26/status/1645469546487115777"
+"1745388323420750064","240111 191258","@no_TL
+https://twitter.com/yuuki26/status/1715458361880441222 https://twitter.com/yuuki26/status/1637818764241653764"
+"1745387658241778111","240111 191020","@no_TL
+https://twitter.com/yuuki26/status/1745380432492019970 https://twitter.com/yuuki26/status/1637522430561501184"
+"1745386276575211917","240111 190450","@no_TL
+https://twitter.com/yuuki26/status/1745380432492019970 https://twitter.com/yuuki26/status/1628918037780000768"
+"1745383770117791963","240111 185453","changed the github page url to
+• http://yuukiarchive.github.io
+
+(repo) https://github.com/yuukiarchive/yuukiarchive.github.io https://twitter.com/yuuki26/status/1730523723026043023"
+"1745380432492019970","240111 184137","created https://github.com/yuukiarchive as an Emergency Center.
+in case my social media is down, pls refer here.
+
+here's my X archive:
+https://github.com/yuukiarchive/yuuki-x-archive"
+"1745358276303475074","240111 171334","@no_TL
+https://twitter.com/yuuki26/status/1715458361880441222 https://twitter.com/yuuki26/status/1618964627353919493"
+"1745354196852129838","240111 165722","@no_TL
+https://twitter.com/yuuki26/status/1730523723026043023 https://twitter.com/yuuki26/status/1571226698213130240"
+"1745352653402759291","240111 165114","@no_TL
+https://twitter.com/yuuki26/status/1730523723026043023 https://twitter.com/yuuki26/status/1544283734714683392"
+"1745350582746087803","240111 164300","@no_TL
+https://twitter.com/yuuki26/status/1615110983244185601 https://twitter.com/yuuki26/status/1468983161770377216"
+"1745348643778142518","240111 163518","@no_TL
+https://twitter.com/yuuki26/status/1615110983244185601 https://twitter.com/yuuki26/status/1466478584936108032"
+"1745343408879947900","240111 161430","@no_TL
+moved the repo to https://github.com/calculator-online/calculator-online.github.io/blob/main/src/grammar.pegjs https://twitter.com/yuuki26/status/1721698251282186692"
+"1745342890728124701","240111 161226","@no_TL
+https://twitter.com/yuuki26/status/1745342705625186320 https://twitter.com/yuuki26/status/1719051239156310396"
+"1745342705625186320","240111 161142","@no_TL
+moved the repo to https://github.com/calculator-online/calculator-online.github.io https://twitter.com/yuuki26/status/1721691717030830143"
 "1744893989353140593","240110 102840","ive reposted this.
 https://www.tiktok.com/@yuuki148/video/7313037453017877762 https://twitter.com/yuuki26/status/1735094573414724035"
 "1744107786038911398","240108 062434","created an opening book using ShogiGUI.
