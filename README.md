@@ -27,7 +27,7 @@ If X goes down:
 
 * [Media (-2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
-## Older accounts
+## Old accounts
 
 <details>
 <summary>[show]</summary>
