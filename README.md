@@ -2,7 +2,8 @@
 
 This is an archive of Yuuki's X posts.
 
-* [@yuuki26](https://twitter.com/yuuki26) ([1463770680491593729](https://twitter.com/i/user/1463770680491593729)) - jpn: [@yuuki170](https://twitter.com/yuuki170) ([1672629051419410435](https://twitter.com/i/user/1672629051419410435))
+* [@yuuki26](https://twitter.com/yuuki26) ([1463770680491593729](https://twitter.com/i/user/1463770680491593729))
+    * jpn: [@yuuki170](https://twitter.com/yuuki170) ([1672629051419410435](https://twitter.com/i/user/1672629051419410435))
 
 If X goes down:
 
