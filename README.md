@@ -30,7 +30,7 @@ If X goes down:
 
 * @yuuki___0517 (suspended)
     * [Pawoo: @yuuki___0517](https://pawoo.net/@yuuki___0517)
-    * [Shogi Blog](https://yuukishogi.blog.fc2.com/)
+    * ["Shogi Blog"](https://yuukishogi.blog.fc2.com/)
     * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/*)
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status*)
 
