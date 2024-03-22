@@ -16,7 +16,7 @@ If X goes down:
 
 ## Archives
 
-* [Togetter](https://togetter.com/li/2144709)
+* [Togetter](https://togetter.com/li/2144709) - [jpn](https://togetter.com/li/2336198)
 * [Archive.today](https://archive.today/https://twitter.com/yuuki26/*) - [jpn](https://archive.today/https://twitter.com/yuuki170/*)
 * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
