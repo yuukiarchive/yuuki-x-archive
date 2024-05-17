@@ -2,8 +2,8 @@
 
 Archive of yuuki's X posts
 
-* [@yuuki26](https://twitter.com/yuuki26) ([1463770680491593729](https://twitter.com/i/user/1463770680491593729))
-    * jpn: [@yuuki170](https://twitter.com/yuuki170) ([1672629051419410435](https://twitter.com/i/user/1672629051419410435))
+* [@yuuki26](https://x.com/yuuki26) ([1463770680491593729](https://x.com/i/user/1463770680491593729))
+    * jpn: [@yuuki170](https://x.com/yuuki170) ([1672629051419410435](https://x.com/i/user/1672629051419410435))
 
 ## Mirrors
 
@@ -15,8 +15,8 @@ Archive of yuuki's X posts
 ## Archives
 
 * [Togetter](https://togetter.com/li/2144709) - [jpn](https://togetter.com/li/2336198)
-* [Archive.today](https://archive.today/https://twitter.com/yuuki26/*) - [jpn](https://archive.today/https://twitter.com/yuuki170/*)
-* [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://twitter.com/yuuki170/status*)
+* [Archive.today](https://archive.today/https://x.com/yuuki26/*) - [jpn](https://archive.today/https://x.com/yuuki170/*)
+* [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://x.com/yuuki170/status*)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
 ## Old accounts
