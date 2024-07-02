@@ -15,9 +15,9 @@ Archive of yuuki's X posts
 ## Archives
 
 * [Togetter](https://togetter.com/li/2144709) - [jpn](https://togetter.com/li/2336198)
-* [FC2 Blog](https://yuuki6.blog.fc2.com/)
 * [Archive.today](https://archive.today/https://x.com/yuuki26/*) - [jpn](https://archive.today/https://x.com/yuuki170/*)
 * [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://x.com/yuuki170/status*)
+* [FC2 Blog (- Jun 2024)](https://yuuki6.blog.fc2.com/)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
 ## Old accounts
