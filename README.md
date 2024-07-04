@@ -3,20 +3,20 @@
 Archive of yuuki's X posts
 
 * [@yuuki26](https://x.com/yuuki26) ([1463770680491593729](https://x.com/i/user/1463770680491593729))
-    * 日本語: [@yuuki170](https://x.com/yuuki170) ([1672629051419410435](https://x.com/i/user/1672629051419410435))
+    * jpn: [@yuuki170](https://x.com/yuuki170) ([1672629051419410435](https://x.com/i/user/1672629051419410435))
 
 ## Mirrors
 
-* [Twilog](https://twilog.togetter.com/yuuki26) ([日本語](https://twilog.togetter.com/yuuki170))
-* [Nitter](https://twiiit.com/i/user/1463770680491593729) ([日本語](https://twiiit.com/i/user/1672629051419410435))
+* [Twilog](https://twilog.togetter.com/yuuki26) - [jpn](https://twilog.togetter.com/yuuki170)
+* [Nitter](https://twiiit.com/i/user/1463770680491593729) - [jpn](https://twiiit.com/i/user/1672629051419410435)
 * [Mastodon.social: @yuukikonno](https://mastodon.social/@yuukikonno)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
 
 ## Archives
 
-* [Togetter](https://togetter.com/li/2144709) ([日本語](https://togetter.com/li/2336198))
-* [Archive.today](https://archive.today/https://x.com/yuuki26/*) ([日本語](https://archive.today/https://x.com/yuuki170/*))
-* [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status*) ([日本語](https://web.archive.org/web/*/https://x.com/yuuki170/status*))
+* [Togetter](https://togetter.com/li/2144709) - [jpn](https://togetter.com/li/2336198)
+* [Archive.today](https://archive.today/https://x.com/yuuki26/*) - [jpn](https://archive.today/https://x.com/yuuki170/*)
+* [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status*) - [jpn](https://web.archive.org/web/*/https://x.com/yuuki170/status*)
 * [FC2 Blog (- Jun 2024)](https://yuuki6.blog.fc2.com/)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
