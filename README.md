@@ -37,4 +37,4 @@ Archive of yuuki's X posts
 
 ## License
 
-All my creations in my posts (including text, images, videos, and audio) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+All my creations in my posts (including text, images, videos, and audio) are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
