@@ -2,13 +2,13 @@
 
 Archive of yuuki's X posts
 
-* [@yuuki26](https://x.com/yuuki26) ([1463770680491593729](https://x.com/i/user/1463770680491593729))
-    * jpn: [@yuuki170](https://x.com/yuuki170) ([1672629051419410435](https://x.com/i/user/1672629051419410435))
+* [@yuuki26](https://x.com/yuuki26) (ID: [1463770680491593729](https://x.com/i/user/1463770680491593729))
+    * jpn: [@yuuki170](https://x.com/yuuki170) (ID: [1672629051419410435](https://x.com/i/user/1672629051419410435))
 
 ## Mirrors
 
 * [Twilog](https://twilog.togetter.com/yuuki26) - [jpn](https://twilog.togetter.com/yuuki170)
-* [Nitter](https://twiiit.com/i/user/1463770680491593729) - [jpn](https://twiiit.com/i/user/1672629051419410435)
+* [Nitter](https://farside.link/nitter/i/user/1463770680491593729) - [jpn](https://farside.link/nitter/i/user/1672629051419410435)
 * [Mastodon.social: @yuukikonno](https://mastodon.social/@yuukikonno)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
 
