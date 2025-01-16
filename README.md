@@ -37,4 +37,4 @@ Archive of yuuki's X posts
 
 ## License
 
-yuuki's X (Twitter) and Mastodon posts (including text, images, videos, and audio) are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+yuuki's X/Twitter/Mastodon posts (including text, images, videos, and audio) are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
